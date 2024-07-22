@@ -13,7 +13,7 @@ my_flask_app/
 │└── styles.css
 │
 ├── templates/
-│ ├── index.html
+│├── index.html
 │
 ├── app.py
 ├── requirements.txt
